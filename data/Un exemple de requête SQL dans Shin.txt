@@ -1,0 +1,2 @@
+Un exemple de requête SQL dans Shiny qui permet la sélection de cinq colonnes liées entre elle par des filtres d'une base de données 1 Excel et de comparer ces variables dans une autre base de données 2 Excel les colonnes sélectionnées en ajoutant une condition qui convient si le prix de la base de données 1 est inférieur à la base 2 et de retourner une liste, le tout validé avec un bouton d'action
+

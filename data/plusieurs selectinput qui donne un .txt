@@ -1,0 +1,1 @@
+plusieurs selectinput qui donne un prix qui permet de comparer les données d'une autre base de données avec les meme selectinput le tout valider avec un boutonaction et retourner une liste des données comparer qui sont pareils en requête sql en shiny

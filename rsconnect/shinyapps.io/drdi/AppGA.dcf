@@ -1,0 +1,14 @@
+name: AppGA
+title: AppGA
+username:
+account: drdi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8852915
+bundleId: 7089932
+url: https://drdi.shinyapps.io/AppGA/
+when: 1681482751.04983
+lastSyncTime: 1681482751.04984
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Classeur1.xlsx|Production Auto.xlsx|production.xlsx
