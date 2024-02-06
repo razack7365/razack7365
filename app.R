@@ -27,7 +27,7 @@ credentials <- data.frame(
   user = c("shiny", "shinymanager"),
   password = c("azerty", "12345"), 
   start = c("2021-09-28"), 
-  expire = c(NA, NA),
+  expire = c(NA, "2021-12-31"),
   admin = c(FALSE, TRUE),
   comment = "Simple and secure authentification mechanism 
   for single ‘Shiny’ applications.",
